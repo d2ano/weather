@@ -7,7 +7,10 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.26.0",
     "core-js": "^3.6.5",
+    "lodash": "^4.17.21",
+    "mitt": "^3.0.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
